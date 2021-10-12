@@ -1,0 +1,39 @@
+.right{
+  float:right;
+}
+
+body{
+  overflow-x: hidden;
+}
+
+#nav-logo{
+  max-height:40px;
+}
+
+.main-content{
+  margin-bottom:100px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #212529;
+  color: white;
+  text-align: center;
+  padding-bottom: 20px;
+  padding-top:10px;
+}
+
+.footer-text{
+  opacity: 0.8;
+  float:left;
+  margin-left:10px;
+}
+
+.footer-link{
+  text-decoration: none;
+  color:white;
+  margin-right:15px;
+}
